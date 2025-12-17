@@ -1,4 +1,3 @@
 报文列表，将DNS查询-响应的次数：4
 最后查询报文中Queries Name：www.baidu.com
-最后响应报文中Cname:www.a.shifen.com
-最后响应报文中Answers中的两个IP值：180.101.49.11;180.101.49.12
+最后响应报文中Answers中的两个IP值：223.109.82.6;223.109.82.41
